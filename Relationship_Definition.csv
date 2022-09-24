@@ -1,0 +1,7 @@
+﻿Process Area,Main DataStream,Relationship Name,Supplement DataStream,Main Key,Supplement Key,Key Value
+AE_01,AE_TX,REL_AE_DM,Target.DM,AE_TX.USUBJID,Target.DM.USUBJID,AE_01.REL_AE_DM
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,  

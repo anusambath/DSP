@@ -1,0 +1,2 @@
+﻿Process Area,Data Stream,Macro Name,Macro Parameter,Key Value
+DM_01,CL_TX_DM,rfpendtc,"{""INDS"":""CL_TX_DM"",""cond"":""substr(name,1,1)='I' and (   substr(name,length(name)-1)='DT' or (substr(name,length(name)-2) in('DTC',""DT1"",""DT2"",""DT3"",""DT4""))    )"",""usubjid"":""cat(""SCI-CD47-001-"",strip(USUBJID))"",""print"":""Y""}",DM_01.CL_TX_DM.rfpendtc
